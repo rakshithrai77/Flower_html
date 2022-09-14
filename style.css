@@ -1,0 +1,40 @@
+#navbarMonstera
+{
+    display:flex;
+    justify-content: space-between;
+    margin-top:30px;
+}
+#navFirst
+{
+    margin-left:30px;
+    margin-top:20px;
+}
+
+#navMid
+{
+    margin-left:30px;
+    padding:0;
+}
+
+#navMid>div
+{
+    display:inline-block;
+    margin-left:40px;
+    margin-right: 40px;
+
+}
+#navMid>div>h4{
+    font-size:20px;
+    font-family:"Allerta";
+}
+
+#navEnd>div
+{
+    display:inline-block;
+    padding-right: 60px;
+}
+
+#navEnd
+{
+    margin-top:30px;
+}
